@@ -1,5 +1,3 @@
-[![MasterHead](https://image.slidesdocs.com/responsive-images/background/big-data-management-3d-render-of-abstract-technological-with-motion-graphic-representing-data-set-transfers-storage-and-processing-on-a-high-speed-internet-network-powerpoint-background_a68686b577__960_540.jpg)
-
 <h1 align="center">Hi 👋, I'm Shruti Thorle</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

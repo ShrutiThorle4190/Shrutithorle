@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20230317/pngtree-science-and-technology-big-data-operation-panel-advertising-background-image_1948082.jpg)
+[![MasterHead](https://image.slidesdocs.com/responsive-images/background/big-data-management-3d-render-of-abstract-technological-with-motion-graphic-representing-data-set-transfers-storage-and-processing-on-a-high-speed-internet-network-powerpoint-background_a68686b577__960_540.jpg)
 
 <h1 align="center">Hi 👋, I'm Shruti Thorle</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>

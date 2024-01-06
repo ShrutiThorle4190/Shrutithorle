@@ -1,3 +1,5 @@
+[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20230317/pngtree-science-and-technology-big-data-operation-panel-advertising-background-image_1948082.jpg)
+
 <h1 align="center">Hi 👋, I'm Shruti Thorle</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

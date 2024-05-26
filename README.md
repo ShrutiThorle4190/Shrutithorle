@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/Shrutithorle/Shrutithorle/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/ShrutiThorle/ShrutiThorle4190/blob/main/Dark%20Teal%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shruti Thorle</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 

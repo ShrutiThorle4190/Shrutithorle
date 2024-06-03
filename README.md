@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python,Tableau,Power BI, Machine Learning.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shrutithorle?tab=repositories](https://github.com/ShrutiThorle4190?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Shrutithorle?tab=repositories](https://github.com/Shrutithorle?tab=repositories)
 
 - 📫 How to reach me **shrutithorle95@gmail.com**
 
